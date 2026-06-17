@@ -183,11 +183,6 @@ npm start
 * **DevOps:** Docker, Docker Compose, GitHub Actions
 * **Tools:** Git, GitHub, npm
 
-## Coursera Submission
-
-This project was developed as the capstone for the IBM Full Stack Application Development course on Coursera.
-
-It is intended for academic submission and learning purposes only.
 
 ## License and Terms of Use
 
